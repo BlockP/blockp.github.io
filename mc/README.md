@@ -1,6 +1,6 @@
 # Minecraft, 启动!    
 ## 下载链接  
-[启动器下载 (必须)](https://ltcat.lanzoum.com/iFdWg1ctpq8h)    
+[启动器下载 (必须)](https://afdian.net/p/0164034c016c11ebafcb52540025c377)    
 [JDK 17 (1.16.5以上版本需要用到)](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip)
 
 ## 安装方法  
