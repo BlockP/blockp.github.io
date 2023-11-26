@@ -1,7 +1,7 @@
 # Minecraft, 启动!    
 ## 下载链接  
 [启动器下载 (必须)](https://ltcat.lanzoum.com/iFdWg1ctpq8h)    
-[JDK 17 (1.16.5以上版本需要用到)](https://dai.ding)
+[JDK 17 (1.16.5以上版本需要用到)](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip)
 
 ## 安装方法  
 对下载后的文件右键，选择“解压到当前文件夹”  
