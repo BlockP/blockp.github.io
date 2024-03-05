@@ -1,7 +1,7 @@
 # Minecraft, 启动!    
 ## 下载链接  
 [启动器下载 (必须)](https://moqxlg.dm.files.1drv.com/y4mp19CUC8IAFBPChncY5ErspSIrQiP7G2BzwwaE7-VTclbH6IQMlCpTaS6g-LoYX36-0Q4Btrb4usSEjcZIVHwJkclx_N8hvRXQiuw466wFaVwrupFx7ilD98oAI7uRH3LyN4VbojEjCHcKm23NSb7wvTs9cTxNmPO5dLuV6l9yZsAlzG4RSYH-V_1bpFukE30xbxct2OU6TZfXnqn27P2EguMWzH2LInQIQb3081iN5A?AVOverride=1)    
-[脱控](https://gitee.com/grstudio/ydglm/raw/master/JiYuTrainer.exe)   
+[脱控](https://gitee.com/grstudio/ydglm/raw/master/JiYuTrainer.exe)(账户添grstudio,密码GRS_123456)   
 ## 安装方法  
 对下载后的文件右键，选择“解压到当前文件夹”  
 
